@@ -37,6 +37,9 @@ This project investigates how security awareness can be incorporated into wirele
 ## Project Status
 Completed – Computer Networks Coursework
 
+## Project Report
+The detailed project report is included in this repository.
+
 ## Project Explanation Video
 https://youtu.be/knXmO3Lx-7A
 
